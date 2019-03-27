@@ -19,3 +19,9 @@ Namecheap
 
 tmux - Terminal Multiplexer
 - [cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
+
+## Books
+
+Clean Code
+
+How to Crack the Coding Interview
