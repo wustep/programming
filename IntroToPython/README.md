@@ -10,6 +10,9 @@ We'll be using 3.7.2+, so be sure to download that.
 
 To run a Jupyter notebook server, you can either run the `Jupyer Notebook` application, or use `jupyter notebook` in a terminal.
 
+## Additional resources
+- [Python for beginners](https://github.com/mraza007/Python-for-beginners)
+
 ## Future lessons
 
 - numpy, scipy, pandas basics
