@@ -4,6 +4,7 @@ Various programming resources
 
 ## Education
 
+[Research Software Engineering Course](http://github-pages.ucl.ac.uk/rsd-engineeringcourse/)
 
 ## Services
 
@@ -11,7 +12,7 @@ Various programming resources
 
 Google Cloud 
 
-DigitalOcean
+[DigitalOcean](https://m.do.co/c/7672f870e8b8)
 
 Namecheap
 
@@ -22,6 +23,6 @@ tmux - Terminal Multiplexer
 
 ## Books
 
-Clean Code
+[Clean Code](https://amzn.to/2LA4kXJ)
 
-How to Crack the Coding Interview
+[How to Crack the Coding Interview](https://amzn.to/2LxcOyX)
